@@ -1,4 +1,0 @@
-first line in the text document
-second line in the text document
-
-third line in the text document
